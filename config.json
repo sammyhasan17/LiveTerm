@@ -4,14 +4,13 @@
   "name": "Sammy Hasan",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "sammyhasan17",
+    "linkedin": "sammyhasan17"
   },
   "email": "sammyhasan17@Gmail.com",
   "ps1_hostname": "liveTerminal",
   "ps1_username": "guest",
   "repo": "https://github.com/Sammyhasan17/LiveTerminal",
-  // "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/sammyhasan17?country.x=US&locale.x=en_US",
     
